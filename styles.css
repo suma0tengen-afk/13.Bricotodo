@@ -1,0 +1,46 @@
+
+    @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Pacifico&display=swap');
+        h1 {
+            font-family: "Pacifico", cursive;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 50px;
+            color: #D2691E;
+            text-align: center;
+        }
+        h2{
+            font-family: "Caveat", cursive;
+            font-optical-sizing: auto;
+            font-style: normal;
+            font-size: 30px;
+            color:#00008B;
+        }
+        h3 {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 25px;
+            color: #008B8B;
+        }
+        li {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        a:visited {
+            color: gray;
+        }
+        a:hover {
+            font-weight: bold; color: red;
+        }
+        a:active {
+            color: green;
+        }
+        table,th,td {
+            width: 33%;
+            margin: auto;
+            border-collapse: collapse;
+            border-color: brown;
+            background-color: antiquewhite;
+        }
+        body {
+            background-image: url(imagen2.jpg);
+            background-size: cover;
+        }
+    
